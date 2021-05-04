@@ -7,6 +7,7 @@ API realizada en .Net Core 3.1 para administrar categorías. Conecta con una bas
 * Entity Framework Core
 * SQL Azure
 * AutoMapper
+* Swagger
 
 ## Endpoints
 
